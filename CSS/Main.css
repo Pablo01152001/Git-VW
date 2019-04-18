@@ -1,0 +1,13 @@
+.navbar {
+box-shadow: 2px 2px 3px 0px;
+}
+.navbar .navbar-nav .nav-link {
+    color: aquamarine
+}
+.main-header {
+    position: relative;
+    background: url(../img/3-pags.png);
+    background-size: cover;
+    min-height: 2304px;
+}
+
